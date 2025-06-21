@@ -16,7 +16,7 @@
 - 💡 Bộ nguồn hạ áp 5V/3.3V cho ô tô
 
 ### 📫 Liên hệ:
-- [Facebook](https://facebook.com/...)
-- [Zalo](https://zalo.me/...)
-- Email: aluong0410@...
+- [Facebook](https://www.facebook.com/share/1GEVEmA4sA/)
+- Email: ntluong0410@gmail.com
+  
 
