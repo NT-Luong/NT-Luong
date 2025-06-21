@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Xin chào! Tôi là A Lương
+## 💻 Kỹ sư thiết kế mạch | Yêu thích phần cứng, nhúng, IoT
 
-<!--
-**NT-Luong/NT-Luong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Sinh viên ngành Điện – Điện tử
+- 🔧 Thành thạo Altium, KiCad, STM32, 8051
+- 💡 Đam mê sáng tạo và chia sẻ kiến thức kỹ thuật
 
-Here are some ideas to get you started:
+### 📌 Kỹ năng
+- ✅ Thiết kế schematic & layout PCB 2/4 lớp
+- ✅ Lập trình nhúng: STM32, ESP32, 8051
+- ✅ Giao tiếp: UART, SPI, I2C...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Dự án nổi bật
+- 🚗 Thiết bị cảnh báo ngủ gật cho tài xế
+- 📷 Camera nhận diện khuôn mặt với ESP32-CAM
+- 💡 Bộ nguồn hạ áp 5V/3.3V cho ô tô
+
+### 📫 Liên hệ:
+- [Facebook](https://facebook.com/...)
+- [Zalo](https://zalo.me/...)
+- Email: aluong0410@...
+
